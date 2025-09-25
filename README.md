@@ -1,8 +1,9 @@
 # Arinhasvath KEOPHIPHATH
 
 <p align="center">
-Développeur web & logiciel (Bretagne / Laval, Mayenne) — passionné de stack full-stack, d’UX simple et d’outils robustes.  
-Je conçois des apps web, APIs et outils data, avec un soin particulier pour la qualité et la maintenabilité.
+Développeur web et logiciel basé en Bretagne, je suis passionné par le développement full-stack, l’expérience utilisateur simple et intuitive, ainsi que par la création d’outils robustes et performants. En tant qu’apprenant enthousiaste, je construis des applications web, des APIs, et des outils de gestion de données avec une attention particulière portée à la qualité du code, à la maintenabilité et au design.
+
+J’adore le processus de création, de la conception à la mise en œuvre, et je prends beaucoup de plaisir à voir mes projets fonctionner et évoluer. Mon objectif est de progresser constamment en intégrant les meilleures pratiques tout en gardant un sens aigu de l’esthétique et de la simplicité.
 </p>
 
 
