@@ -7,7 +7,7 @@ J’adore le processus de création, de la conception à la mise en œuvre, et j
 </p>
 
 
-## 🧰 Dashboard of Skills
+## 💻 Dashboard of Skills
 
 <table>
 <tr>
